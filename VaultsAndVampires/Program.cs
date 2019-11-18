@@ -1,4 +1,5 @@
 ﻿using System;
+using VnVEntities;
 
 namespace VaultsAndVampires
 {
@@ -6,7 +7,6 @@ namespace VaultsAndVampires
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
